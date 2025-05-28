@@ -10,6 +10,6 @@ and of course an arduino, personally i used an Arduino UNO R3
 
 How it works:
 
-The game boots and then yoi try to push the button while the white LED is on
+The game boots and then you try to push the button while the white LED is on
 if you succed a victory chime will play
 if you fail a lose chime will playm
